@@ -117,9 +117,9 @@
           </div>
           <div
             @click="openTopNavbarFixedMenu = false"
-            v-show="openTopNavbarFixedMenu"
+            v-show="openTopNavbarFixedMenu && !fixed"
             class="top-navbar-fixed-menu-mask"
-            :style="`top: ${fixed ? height : 0}px; height: calc(100vh - ${fixed ? height : 0}px);`"
+            :style="`top: ${height}px; height: calc(100vh - ${height}px);`"
           />
         </div>
       </div>
