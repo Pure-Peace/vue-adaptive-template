@@ -3,7 +3,7 @@
 
 🌽基于vue-cli4，使用原生css编写，未添加任何ui库，打包后（去除图片）仅80kb！
 
-- 🌺[English](https://github.com/Pure-Peace/vue-cli-electron-template/blob/master/README_en.md) / 💖中文
+- 🌺[English](https://github.com/Pure-Peace/vue-adaptive-template/blob/master/README_en.md) / 💖中文
 
 
 ## 📘它拥有这些:
