@@ -23,9 +23,8 @@
         </a>
         made with
         <svg-icon
-          type="heart"
-          theme="filled"
-          style="color: #E91E63; font-size: 16px;"
+          type="heart-fill"
+          style="color: #E91E63; font-size: 18px;"
         />
         2020.
       </div>
@@ -34,7 +33,7 @@
           href="https://github.com/Pure-Peace"
           target="_blank"
           title="osuKafuu! repo"
-        ><svg-icon type="github" /></a>
+        ><svg-icon type="github-fill" /></a>
         <a
           href="http://wpa.qq.com/msgrd?v=3&uin=940857703&site=qq&menu=yes"
           target="_blank"
@@ -42,7 +41,7 @@
         >
           <svg-icon
             style="margin-left: 10px;"
-            type="qq"
+            type="QQ"
           /></a>
       </div>
     </div>
